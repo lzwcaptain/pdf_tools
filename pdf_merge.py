@@ -1,3 +1,6 @@
+"""
+将目录下的pdf全部合成为一个文件
+"""
 import argparse
 import os
 from typing import *
